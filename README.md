@@ -4,7 +4,7 @@ This repository is created solely for including verified certificates achieved i
 ```
 
 *Coursera*
-- [Profile](https://www.coursera.org/user/c038d3be4973365b9292c98547d7c84d)
+
 *FutureLearn*
 *SkillUp*
 *IBM*
