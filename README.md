@@ -13,7 +13,5 @@ This repository is created solely for including verified certificates achieved i
 *IBM*
 and *many other e-learning platforms* 
 
-
-
 I will update the description and include the links for easier browsing.
 ### Thank You
