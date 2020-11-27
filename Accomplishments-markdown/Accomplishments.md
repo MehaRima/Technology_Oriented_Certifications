@@ -15,6 +15,8 @@
 
 
 
+ ## Quick View links
+
 - [Biostatistics in Public Health](https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/specialization/FUJT4RHGT72X&amp;sa=D&amp;ust=1606334887130000&amp;usg=AOvVaw3_R69b31VBS65ZFCFszzmF)
 - [Learn Mandarin Chinese](https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/specialization/DJKBJGMZPCKK&amp;sa=D&amp;ust=1606334887131000&amp;usg=AOvVaw0GnA2riCjY297-ydYlt4Mz)
 - [Graphic Design](https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/specialization/N29PUEDH8HYK&amp;sa=D&amp;ust=1606334887132000&amp;usg=AOvVaw3rpfi-niLrknD3ZGQex-gR)
@@ -25,6 +27,7 @@
 - [Game Design: Art and Concepts](https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/specialization/MRSM5TW48J88&amp;sa=D&amp;ust=1606334887135000&amp;usg=AOvVaw1BwnRfGcB7S8nf9gtvY2OH)
 - [Advanced Machine Learning](https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/specialization/T8KZDB6DVAUE&amp;sa=D&amp;ust=1606334887136000&amp;usg=AOvVaw3PH0BYGk7dyScRRTCchzzN)
 - [Dynamic Public Speaking](https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/specialization/TLZSNVKAT89V&amp;sa=D&amp;ust=1606334887137000&amp;usg=AOvVaw22FoG_MD1eC8OKHkAGiAy8)
+- [Responsive Website Development and Design](https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/specialization/VC3VS3YSJ5SY&amp;sa=D&amp;ust=1606491078559000&amp;usg=AOvVaw0Wa5XOzSlKndyvnUqCFWdt)
 - [Creative Writing](https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/specialization/W5YXBC4BPLZJ&amp;sa=D&amp;ust=1606334887138000&amp;usg=AOvVaw1o-1qt7mZGS34jH8tkePP4)
 - [Machine Learning for Everyone with Eric Siegel](https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/specialization/45FHXVBYYM8K&amp;sa=D&amp;ust=1606334887139000&amp;usg=AOvVaw2pg5BVcQcGdDIqiUdGzWBF)
 - [Object Oriented Programming in Java](https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/specialization/XD5YFGCX3438&amp;sa=D&amp;ust=1606334887140000&amp;usg=AOvVaw1L50pxBn4tXrNP2BEUAn4F)
@@ -33,6 +36,7 @@
 - [Good with Words: Writing and Editing](https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/specialization/A7HJXAKPFDH2&amp;sa=D&amp;ust=1606334887144000&amp;usg=AOvVaw1c-PV3rJrRUW-dED6wHwL6)
 - [Google IT Support](https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/professional-cert/NGHQVC6ZY2DR&amp;sa=D&amp;ust=1606334887145000&amp;usg=AOvVaw2rfwdMwSdPVb0qS7qHwIUM)
 - [Introduction to Discrete Mathematics for Computer Science](https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/specialization/5JEN3U9EDW6J&amp;sa=D&amp;ust=1606334887146000&amp;usg=AOvVaw0RQ7O03rpkVj3WXYIh1NIU)
+- [Responsive Website Development and Design Capstone](https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/records/KB36YN2ZEAD2&amp;sa=D&amp;ust=1606491078571000&amp;usg=AOvVaw0u5YW3R10iKo73bXi10Fl2)
 - [Applied Data Science for Data Analysts](https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/records/ENXCGE3SJAE8&amp;sa=D&amp;ust=1606334887147000&amp;usg=AOvVaw2kGrCJV_FHyhXoKDDs_X7p)
 - [Foundations of Project Management](https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/records/4ZL8RED5R9SK&amp;sa=D&amp;ust=1606334887148000&amp;usg=AOvVaw2mET-ylkLfqdrl6zH1vXZR)
 - [Introduction to Designing Data Lakes in AWS](https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/records/A6U3VV5EDAEK&amp;sa=D&amp;ust=1606334887148000&amp;usg=AOvVaw1Hp8gIOlZteumhkMcMrH_8)
@@ -232,6 +236,5 @@
 - [Operating Systems and You: Becoming a Power User](https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/records/Z8U5LLA3M824&amp;sa=D&amp;ust=1606334887318000&amp;usg=AOvVaw0Yrp1JwEfa9Awf-08RiNtS)
 - [The Bits and Bytes of Computer Networking](https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/records/GLTAQPC58Q89&amp;sa=D&amp;ust=1606334887319000&amp;usg=AOvVaw0JnuUSGumEU2MMI6iemBeZ)
 - [Technical Support Fundamentals](https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/records/CA2PFHRXMF6X&amp;sa=D&amp;ust=1606334887320000&amp;usg=AOvVaw1YrtgiG2XtnDMQ7YFvcq4T)
-
 
 
