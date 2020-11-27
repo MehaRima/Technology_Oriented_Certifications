@@ -8,8 +8,8 @@ _____________________________
 -             Google IT Support
 -             Object Oriented Programming in Java
 -             Introduction to Discrete Mathematics for Computer Science
-
-            
+-             Responsive Website Development and Design
+       
 _____________________________
 
 ### P : Projects
@@ -53,7 +53,8 @@ _____________________________
 
 ### C : Courses
 _____________________________
-      
+
+-                   Responsive Website Development and Design Capstone
 -                   Managing and Securing the Apigee Hybrid API Platform
 -                   Upgrading and Monitoring the Apigee Hybrid API Platform
 -                   Foundations of User Experience (UX) Design
