@@ -11,9 +11,6 @@
 - P : Projects
 - C : Courses
 
-## Quick View links
-
-
 
  ## Quick View links
 
